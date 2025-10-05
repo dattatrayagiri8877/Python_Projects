@@ -3,9 +3,9 @@ Hi 👋, I'm Dattatraya Giri
 👨‍💻 About Me
 📊 Currently working on Power BI Dashboards & Python Data Analysis
 🌱 I’m currently learning Machine Learning & Advanced Data Analytics And Make Multiple AI Agent
-🎓 MSc in Applied Statistics
+🎓 BE in Computer Engineering
 💼 Aspiring Data Analyst / BI Analyst
-📧 Reach me at: Dattatrayagiri8877@gmail.com
+📧 Reach me at: dattatrayagiri8877@gmail.com
 🌐 Connect with Me
 LinkedIn GitHub
 
